@@ -11,5 +11,5 @@ Output: false
 */
 
 function strEndsWith(str, ending) {
-  return str.endsWith(ending) ? true : false;
+  return str.endsWith(ending);
 }
